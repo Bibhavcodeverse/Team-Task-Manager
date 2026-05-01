@@ -1,6 +1,6 @@
 # Team Task Manager
 
-A full-stack application built for managing team projects, tasks, and members with role-based access control.
+A full-stack application built for managing team projects, tasks, and members with role-based access control. (Updated)
 
 ## Tech Stack
 * **Framework:** Next.js (App Router)
