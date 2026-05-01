@@ -74,4 +74,4 @@ To ensure your database tables are created automatically on deploy, add the foll
 ```
 *(Note: For strict production environments, `prisma migrate deploy` is preferred, but `db push` works perfectly for this assignment context).*
 
-Your application will now be live, fast, and fully functional on Railway!
+
